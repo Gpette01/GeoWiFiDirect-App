@@ -65,6 +65,12 @@ Operates as a server to receive data from the client:
 - Processes JSON data.
 - Adds data to the database.
 
+## `WifiDirectBroadcastReceiver.kt`
+Listens for specific broadcasted intents related to WiFi Direct operations:
+- Called when a WiFi Direct change happens
+- Notifies for WiFi Direct status
+- Updates Peer list
+
 The source files are located under: app\src\main\java\com\example\locationproject
 
 Disclaimer, the project requires an API key that can be created by the Google Cloud Platform and must be insterted in the AndroidManifest.cml
