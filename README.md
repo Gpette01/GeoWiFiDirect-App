@@ -73,4 +73,4 @@ Listens for specific broadcasted intents related to WiFi Direct operations:
 
 The source files are located under: app\src\main\java\com\example\locationproject
 
-Disclaimer, the project requires an API key that can be created by the Google Cloud Platform and must be insterted in the AndroidManifest.cml
+Disclaimer, the project requires an API key that can be created by the Google Cloud Platform and must be insterted in the AndroidManifest.xml
