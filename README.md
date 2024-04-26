@@ -54,6 +54,7 @@ Here the updated DB after receieving the data from the cleint and we see that th
 
 <img src="https://github.com/Gpette01/GeoWiFiDirect-App/blob/main/images/DBWiFi.jpg" width="50%">
 
+Also by clicking on the map button it will shot the pins, a screenshot in not provided due to security reasons
 
 # Basic Code Explanation
 ## `MainActivity.kt`
