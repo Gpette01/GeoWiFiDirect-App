@@ -31,6 +31,7 @@ Here’s how to navigate and use the application:
 
 
 This is the main screen showing the available buttons on top: **Home**, **Map**, **Download**, **Upload**, **Peer Connection**, **Clear Log**
+
 <img src="https://github.com/Gpette01/GeoWiFiDirect-App/blob/main/images/MainScreenEmpty.png" width="50%">
 
 If WiFi is not enabled then this error will show up, no connection to WiFi is needed just enabled WiFi
